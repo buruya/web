@@ -6,7 +6,7 @@ function App() {
   const [width, height] = useWindowSize ( { fps : 60 });
   return (
     <div>
-      <iframe src="https://editor.p5js.org/buruya/embed/NRYhowiAG" width={width} height={height}></iframe>
+      <iframe src="https://editor.p5js.org/buruya/embed/gr81pBxdT" width={width} height={height}></iframe>
     </div>
   );
 }
